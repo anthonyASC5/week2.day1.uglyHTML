@@ -1,0 +1,85 @@
+body{
+    background: rgb(35, 35, 35)
+}
+
+#mcqueen{
+    display:block;
+    float: bottom;
+}
+
+
+header{
+color: white;
+text-align: center;
+font-size: 72px;
+font-family: 'Tangerine', cursive;
+}
+
+h3{
+color: white;
+text-align: center;
+font-size: 26px;
+font-family: 'Unica One', cursive;
+}
+
+.watch_container{
+    size: 24px;
+    color: white;
+    fill: darkslategray;
+    display: block;
+    border: 2px solid#FDEFA6;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom:30px;
+    border-radius: 13px;
+    overflow: auto;
+}
+
+
+h2{
+    font-size: 26px;
+    font-family: 'Unica One', cursive;
+}
+
+#timex{
+    width: 540px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    
+}
+
+#timex2{
+    width: 200px;
+    overflow: auto;
+    float: left;
+    display:block;
+    margin-bottom: 0px;
+}
+
+#timex3{
+    width: 200px;
+    float: left;
+    display:block;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+#timex4{
+    width: 200px;
+    margin-left: 20px;
+    float: left;
+    display:block;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+footer{
+    font-size: 20px;
+    color: white;
+}
+
+
+
+
